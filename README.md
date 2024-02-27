@@ -1,2 +1,2 @@
-# none
+INITIAL
 make line
